@@ -1,0 +1,9 @@
+#Jeremy Benedek
+#github.com/jbenedek
+#
+##Compiles all java files, then runs one. Change the name of the class
+
+#!/bin/bash
+javac *.java
+echo
+java Verifier

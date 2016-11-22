@@ -1,0 +1,9 @@
+##Jeremy Benedek
+##github.com/jbenedek
+
+#!/bin/bash
+##Script to remove temp files in a directory. 
+
+rm *.class
+
+echo tmp files removed
